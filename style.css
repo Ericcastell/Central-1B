@@ -1,0 +1,352 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
+/*font-family: 'Roboto Mono', monospace;*/
+/*font-family: 'Montserrat', sans-serif;*/
+/*font-family: 'Nunito', sans-serif;*/
+
+html {
+    scroll-behavior: smooth;
+  }
+
+#A1{
+    color: azure;
+    text-align: center;
+    font-size: 1vw;
+    font-family: 'Roboto Mono', monospace;
+    margin-top: 0;
+    margin-bottom: 0.5%;
+    background-image: url(img/1c1c1c.png);
+}
+
+#A2{
+    border-radius: 6px;
+    font-size: 1vw;
+}
+
+#C1B{
+    font-size: 3vw;
+    font-family: 'Roboto Mono', monospace;
+    margin-top: 0;
+    margin-bottom: 0.5%;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+    background-image: url("img/Estrelas\ piscando.gif");
+    font-size: 1.1vw;
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+header{
+    
+    display: block;
+    font-family: 'Nunito', sans-serif;
+    background-image: url("img/Estrelas\ piscando.gif");
+    color: white;
+    padding: 1.5%;
+}
+
+footer{
+    border-radius: 20px;
+    color: white;
+    padding: 1.5%;
+}
+
+div{
+    position: relative; z-index: 10;
+    color: azure;
+    padding: 1.5%;
+    text-align: center;
+}
+
+
+h1 {
+    font-size: 3vw;
+    font-family: 'Roboto Mono', monospace;
+    margin-top: 0;
+    margin-bottom: 0.5%;
+}
+
+h3{
+    margin-left: 3%;
+}
+
+ul{
+    list-style-type: none;
+    margin-left: 3%;
+}
+
+a:link, a:visited, a:active{
+    color:azure;
+    text-decoration: none;
+}
+
+a:hover{
+    color:lightgray;
+    text-decoration: underline;
+}
+
+.footer_division{
+    display: inline-block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#header_sumario{
+    font-size: 150%;
+    text-align: center;
+    margin-top: 0;
+}
+
+#name_footer{
+    font-size: 15px;
+    text-align: center;
+    margin-top: 0;
+}
+
+#footer_first{
+    text-align: center;
+}
+
+#footer_second{
+    text-align: center;
+    font-size: 11px;
+}
+
+#link_menu1{
+    text-align: center;
+    margin-left: 10px;
+}
+
+#link_menu2{
+    text-align: center;
+    margin-left: 10.5%;
+}
+
+#link_menu3{
+    text-align: center;
+    margin-left: 10%;
+}
+
+#link_menu4{
+    text-align: center;
+    margin-left: 10.5%;
+}
+
+#link_menu5{
+    margin-left: 13px;
+}
+
+#link_menu6{
+    text-align: center;
+    margin-left: 13%;
+}
+
+#link_menu7{
+    text-align: center;
+    margin-left: 10.4%;
+}
+
+#link_menu8{
+    text-align: center;
+    margin-left: 9.5%;
+}
+
+#BoJ{
+    margin-left: 20px;
+    margin-right: 20px;
+    display: inline-block;
+    width: 40%;
+    min-width: 250px;
+    vertical-align: top;
+    border-radius: 20px;
+    background-image: url("img/Céu\ nublado2.png"); 
+    color: azure;
+    font-size: 1vw
+}
+
+#Cad{
+    display: inline-block;
+    width: 40%;
+    min-width: 250px;
+    vertical-align: top;
+    border-radius: 20px;
+    background-image: url("img/Céu\ nublado2.png");
+    color: azure;
+    font-size: 1vw
+}
+
+#Bbs{
+    margin-left: 20px;
+    margin-right: 20px;
+    display: inline-block;
+    width: 40%;
+    min-width: 250px;
+    vertical-align: top;
+    border-radius: 20px;
+    background-image: url("img/Céu\ nublado2.png");
+    color: azure;
+    font-size: 1vw
+}
+
+#Dee{
+    display: inline-block;
+    width: 40%;
+    min-width: 250px;
+    vertical-align: top;
+    border-radius: 20px;
+    background-image: url("img/Céu\ nublado2.png");
+    color: azure;
+    font-size: 1vw
+}
+
+#Chr{
+    margin-left: 20px;
+    margin-right: 20px;
+    display: inline-block;
+    width: 40%;
+    min-width: 250px;
+    vertical-align: top;
+    border-radius: 20px;
+    background-image: url("img/Céu\ nublado2.png");
+    color: azure;
+    font-size: 1vw
+}
+
+#Crr{
+    display: inline-block;
+    width: 40%;
+    min-width: 250px;
+    vertical-align: top;
+    border-radius: 20px;
+    background-image: url("img/Céu\ nublado2.png");
+    color: azure;
+    font-size: 1vw
+}
+
+#Oy{
+    margin-left: 20px;
+    margin-right: 20px;
+    display: inline-block;
+    width: 40%;
+    min-width: 250px;
+    vertical-align: top;
+    border-radius: 20px;
+    background-image: url("img/Céu\ nublado2.png");
+    color: azure;
+    font-size: 1vw
+}
+
+#gec{
+    display: inline-block;
+    width: 40%;
+    min-width: 250px;
+    vertical-align: top;
+    border-radius: 20px;
+    background-image: url("img/Céu\ nublado2.png");
+    color: azure;
+    font-size: 1vw
+}
+
+#img_boj{
+    margin-left: 20px;
+    margin-right: 20px;
+    display: inline-block;
+    width: 40%;
+    margin-bottom: 120px;
+    border-radius: 20px;
+    background-image: url("img/Noite.png");
+    width: 1;
+
+}
+
+#img_cadv{
+    display: inline-block;
+    width: 40%;
+    min-width: 250px;
+    vertical-align: top;
+    border-radius: 20px;
+    background-image: url("img/Jogo.png");
+    width: 1;
+}
+
+#img_Bbs{
+    margin-left: 20px;
+    margin-right: 20px;
+    display: inline-block;
+    width: 40%;
+    margin-bottom: 120px;
+    border-radius: 20px;
+    background-image: url("img/Gávea.JPG");
+    width: 1;
+}
+
+#img_Dee{
+    display: inline-block;
+    width: 40%;
+    min-width: 250px;
+    vertical-align: top;
+    border-radius: 20px;
+    background-image: url("img/Atlântida.png");
+    width: 1;
+}
+
+#img_Chr{
+    margin-left: 20px;
+    margin-right: 20px;
+    display: inline-block;
+    width: 40%;
+    margin-bottom: 120px;
+    border-radius: 20px;
+    background-image: url("img/sampa.png");
+    width: 1;
+}
+
+#img_Crr{
+    display: inline-block;
+    width: 40%;
+    min-width: 250px;
+    vertical-align: top;
+    border-radius: 20px;
+    background-image: url("img/macaco\'s\ task.png");
+    width: 1;
+}
+
+#img_Oy{
+    margin-left: 20px;
+    margin-right: 20px;
+    display: inline-block;
+    width: 40%;
+    margin-bottom: 60px;
+    border-radius: 20px;
+    background-image: url("img/earth.jpg");
+    width: 1;
+}
+
+#img_gec{
+    display: inline-block;
+    width: 40%;
+    min-width: 250px;
+    vertical-align: top;
+    border-radius: 20px;
+    background-image: url("img//paisagem.jpg");
+    width: 1;
+}
+
+#back_to_top {
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+  }
+
+#left{
+    margin-right: 35px;
+    font-size: 15px;
+}
