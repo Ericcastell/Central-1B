@@ -2,7 +2,7 @@
 
 Projeto feito para disciplina de Fundamentos de Desenvolvimento para Internet do CEFET-RJ no ano letivo de 2021.
 
-> **[Link para o site](https://rafaelabf.github.io/Central1B/)**
+> **[Link para o site](https://ericcastell.github.io/Central-1B/)**
 
 ## 💻 Sobre o projeto
  
